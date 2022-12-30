@@ -1,7 +1,6 @@
-# References
 
-* octocat 1 😈# References
+# something something lol
 
-* octocat 1 😈# References
+* meow
 
-* octocat 1 😈
+* woof
